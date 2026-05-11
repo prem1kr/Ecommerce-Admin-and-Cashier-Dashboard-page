@@ -3,6 +3,7 @@
 A modern, responsive, and user-friendly dashboard built for ecommerce businesses to manage products, orders, sales, and customers. The system supports two main user roles — **Admin** and **Cashier**, each with tailored access and functionality.
 
 🔗 **Live Demo**: [ecommerce-admin-dashboard](https://ecommerce-admin-and-cashier-dashboard-page.vercel.app/login)
+---
 For Admin - Username = cashieadmin , password = cashieadmin
 ----
 For Casher - Username = prem kumar , password = 123456
