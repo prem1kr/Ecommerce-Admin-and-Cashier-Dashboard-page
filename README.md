@@ -4,6 +4,7 @@ A modern, responsive, and user-friendly dashboard built for ecommerce businesses
 
 🔗 **Live Demo**: [ecommerce-admin-dashboard](https://ecommerce-admin-and-cashier-dashboard-page.vercel.app/login)
 For Admin - Username = cashieadmin , password = cashieadmin
+----
 For Casher - Username = prem kumar , password = 123456
 
 ---
